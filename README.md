@@ -10,7 +10,7 @@ This is a console "game" that does not require any user input, but will populate
 
 ## Prerequisites
 
-1. Browser and/or text editor
+1. Web browser and/or text editor
 
 ## Contributing
 
